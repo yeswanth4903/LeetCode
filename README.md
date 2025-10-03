@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yeswanth4903/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/yeswanth4903/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
@@ -28,4 +29,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/yeswanth4903/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yeswanth4903/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Stack
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/yeswanth4903/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
