@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/yeswanth4903/LeetCode/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yeswanth4903/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/yeswanth4903/LeetCode/tree/master/0239-sliding-window-maximum) |
 ## Queue
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yeswanth4903/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yeswanth4903/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/yeswanth4903/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
