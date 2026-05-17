@@ -14,6 +14,7 @@
 | [0011-container-with-most-water](https://github.com/yeswanth4903/LeetCode/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yeswanth4903/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/yeswanth4903/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [1306-jump-game-iii](https://github.com/yeswanth4903/LeetCode/tree/master/1306-jump-game-iii) |
 ## Queue
 |  |
 | ------- |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yeswanth4903/LeetCode/tree/master/0011-container-with-most-water) |
+## Depth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/yeswanth4903/LeetCode/tree/master/1306-jump-game-iii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1306-jump-game-iii](https://github.com/yeswanth4903/LeetCode/tree/master/1306-jump-game-iii) |
 <!---LeetCode Topics End-->
