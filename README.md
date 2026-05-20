@@ -15,6 +15,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/yeswanth4903/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/yeswanth4903/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1306-jump-game-iii](https://github.com/yeswanth4903/LeetCode/tree/master/1306-jump-game-iii) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yeswanth4903/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Queue
 |  |
 | ------- |
@@ -55,4 +56,12 @@
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/yeswanth4903/LeetCode/tree/master/1306-jump-game-iii) |
+## Hash Table
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yeswanth4903/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yeswanth4903/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 <!---LeetCode Topics End-->
