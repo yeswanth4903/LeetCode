@@ -16,6 +16,7 @@
 | [0239-sliding-window-maximum](https://github.com/yeswanth4903/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [1306-jump-game-iii](https://github.com/yeswanth4903/LeetCode/tree/master/1306-jump-game-iii) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yeswanth4903/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yeswanth4903/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Queue
 |  |
 | ------- |
@@ -60,8 +61,17 @@
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yeswanth4903/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yeswanth4903/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yeswanth4903/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yeswanth4903/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yeswanth4903/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
