@@ -11,6 +11,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yeswanth4903/LeetCode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/yeswanth4903/LeetCode/tree/master/0011-container-with-most-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/yeswanth4903/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0239-sliding-window-maximum](https://github.com/yeswanth4903/LeetCode/tree/master/0239-sliding-window-maximum) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yeswanth4903/LeetCode/tree/master/0001-two-sum) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yeswanth4903/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yeswanth4903/LeetCode/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Bit Manipulation
